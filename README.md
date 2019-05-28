@@ -1,5 +1,9 @@
 # Awesome-UniRx
 
+<a href="https://awesome.re">
+  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+</a>
+  
 ## Tools
 - [UniRx-Observables-Visualizer](https://github.com/Nobinator/UniRx-Observables-Visualizer) - Visualize the data flowing in the stream.
 - [ReactiveConsole](https://github.com/ousttrue/ReactiveConsole) - Unity WebSocket logger using UniRx
@@ -14,11 +18,15 @@
 - [HadoObjectPool](https://github.com/meleap/HadoObjectPool) - Full managed ObjectPool library using UniRx.Toolkit.ObjectPool.
 
 ## Samples
-- [kimsama/Unity-RxSmples](https://github.com/kimsama/Unity-RxSamples) -
-
+- [kimsama/Unity-RxSmples](https://github.com/kimsama/Unity-RxSamples)
 - [Xerios/UniRxSimpleGame](https://github.com/Xerios/UniRxSimpleGame) - One button endless game using UniRx structure.
 - [EcsRx/ecsrx.roguelike2d](https://github.com/EcsRx/ecsrx.roguelike2d)
 
 ## Frameworks
 - [reduxity](https://github.com/austinmao/reduxity) - Help building react-redux structure via UniRx.
 - [EcsRx](https://github.com/EcsRx/ecsrx.unity) - reactive take on the common ECS pattern with a well separated design, this library builds off that basis and adds unity specific helpers and functionality.
+
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
